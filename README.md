@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kurouge
+- 👀 I’m interested in Data Science, Machine Learning and Rugby.
+- 🌱 I’m currently learning Python, Java and PHP
+- 💞️ I’m not looking to collaborate on anything for the moment, just learning :)
+- 📫 How to reach me :
